@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CongestionTax.API", "CongestionTax.API\CongestionTax.API.csproj", "{A5A2A4D6-2ACE-4191-8020-34019C271E40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CongestionTax.Data", "CongestionTax.Data\CongestionTax.Data.csproj", "{F6AC1123-D347-47EA-88C7-E75691A61BC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CongestionTax.Domain", "CongestionTax.Domain\CongestionTax.Domain.csproj", "{BE227ECF-BB07-4653-9923-70CEBB8436A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CongestionTax.Service", "CongestionTax.Service\CongestionTax.Service.csproj", "{C9463561-FCD7-4EA2-9C5A-7803DEC9A9D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A2A4D6-2ACE-4191-8020-34019C271E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A2A4D6-2ACE-4191-8020-34019C271E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A2A4D6-2ACE-4191-8020-34019C271E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A2A4D6-2ACE-4191-8020-34019C271E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AC1123-D347-47EA-88C7-E75691A61BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AC1123-D347-47EA-88C7-E75691A61BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AC1123-D347-47EA-88C7-E75691A61BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AC1123-D347-47EA-88C7-E75691A61BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE227ECF-BB07-4653-9923-70CEBB8436A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE227ECF-BB07-4653-9923-70CEBB8436A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE227ECF-BB07-4653-9923-70CEBB8436A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE227ECF-BB07-4653-9923-70CEBB8436A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9463561-FCD7-4EA2-9C5A-7803DEC9A9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9463561-FCD7-4EA2-9C5A-7803DEC9A9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9463561-FCD7-4EA2-9C5A-7803DEC9A9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9463561-FCD7-4EA2-9C5A-7803DEC9A9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F035FBC0-AE29-42FF-BE22-061F36AA4BE7}
+	EndGlobalSection
+EndGlobal
